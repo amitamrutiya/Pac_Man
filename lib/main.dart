@@ -1,8 +1,7 @@
-
 import 'package:amit_pac_man/HomePage.dart';
 import 'package:flutter/material.dart';
 
-void main () {
+void main() {
   WidgetsFlutterBinding.ensureInitialized();
 
   runApp(const MyApp());
