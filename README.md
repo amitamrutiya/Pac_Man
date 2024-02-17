@@ -20,7 +20,7 @@ flutter run
 1) Download the app from this this [link](https://drive.google.com/file/d/1RWPGwMiiQtsGrhBtUUPXHzF8HeVxeeCN/view?usp=sharing).
 2) Open the app on your android device.
 3) Start playing by press on play button.
-4) swipe up for up move swipe down for down move swipe left for left move swipe right for right move.
+4) Swipe up for up move swipe down for down move swipe left for left move swipe right for right move.
 5) If you touch any ghost then you have to restart game.
 6) Try to get the highest score possible
 
